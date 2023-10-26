@@ -18,9 +18,5 @@ lean folder contains three subfolders, which are: opencv-346,protobuf3.11.4,open
   
 ### 2、run compiled executable files:
   The compiled executable files are located in the "workspace" folder.  
-          ```cpp   
-        string s="";   
-        ```  cd workspace          ```cpp   
-        string s="";   
-        ```  
+  cd workspace  
   ./demo
