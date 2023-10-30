@@ -2,6 +2,7 @@
 yolov5-openvino-examples with python&amp;C++
 
 ## 一、openvino install 
+https://zhuanlan.zhihu.com/p/664126951  
 https://docs.openvino.ai/2023.1/openvino_docs_install_guides_overview.html?VERSION=v_2023_1_0&OP_SYSTEM=WINDOWS&DISTRIBUTION=ARCHIVE
 
 ## 二、environment
